@@ -1,4 +1,4 @@
-# HYPOTHESIS
+## HYPOTHESIS
 X-Ray imaging has been used in the medical area for diagnosis and detection of diseases. Using
 medical imaging with A.I can play a vital role, such as in the detection of COVID-19.
 
